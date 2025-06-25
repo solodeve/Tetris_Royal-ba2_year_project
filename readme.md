@@ -47,7 +47,7 @@ To install **Tetris Royale** on your machine, follow these steps:
 Start by cloning the project repository to your local machine:
 
 ```sh
-git clone https://gitlab.ulb.be/infof209/2024-25/group-1
+git clone https://github.com/solodeve/Tetris_Royal-ba2_year_project.git
 cd ./group-1
 ```
 
