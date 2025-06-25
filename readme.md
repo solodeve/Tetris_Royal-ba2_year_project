@@ -48,7 +48,7 @@ Start by cloning the project repository to your local machine:
 
 ```sh
 git clone https://github.com/solodeve/Tetris_Royal-ba2_year_project.git
-cd ./group-1
+cd ./Tetris_Royal-ba2_year_project
 ```
 
 ### 2. Install Dependencies
