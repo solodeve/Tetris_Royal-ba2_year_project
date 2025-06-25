@@ -19,14 +19,6 @@ Welcome to **Tetris Royale**, a modern multiplayer version of the classic **Tetr
   <p align="center"><em>In-game view and lobby browser</em></p>
 </div>
 
----
-
-For further details, please refer to the following documents:
-
-- [`./team/enonce.pdf`](./team/enonce.pdf)
-- [`./team/consignes.pdf`](./team/consignes.pdf)
-- [`./doc/srd.pdf`](./doc/srd.pdf)
-
 ## 🚀 Features
 
 - **Battle Royale**: Play against up to 8 other players in real-time!
